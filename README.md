@@ -1,1 +1,1 @@
-Este projeto faz parte do NLW promovido pela rocketseat
+Este Templete é parte do Projeto NLW da Rocketseat, visando ensinar o básico de Front-end.
