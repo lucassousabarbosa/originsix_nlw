@@ -24,7 +24,7 @@ window.addEventListener('scroll', function() {
   }
 })
 
-
+//Biblioteca swiper
 const swiper = new Swiper('.swiper', {
   slidesPerView: 1,
   pagination: {
